@@ -12,5 +12,5 @@ Learn a lot about Wales , meet a lot of new and different people and learn a lot
 
 ## Feedback
 
-Once you commit and push your work to Github, I'll update this section with feedback.
+Your observation about police cars is interesting.  The UK has instead a lot of camera surveillance (speed cameras and crime cameras), which many americans wouldn't be happy with as too much of "big brother" watching them.  The feeling is a bit different here about that.
 
